@@ -119,3 +119,12 @@
 115 Drum 9TF b00100000 //Tom Floor (LOW)
 116 Drum 9TM b01000000 //Tom Medium
 117 Drum 9TH b10000000 //Tom Hight
+
+#TECH
+120 Tech TNT 0 // Tech Nothing
+121 Tech TC1 0 // Tech Command Chanel 1
+122 Tech TC2 0 // Tech Command Chanel 2
+123 Tech TC3 0 // Tech Command Chanel 3
+124 Tech TB5 0 // Tech Blank
+125 Tech TB6 0 // Tech Blank
+126 Tech TB7 0 // Tech Blank
